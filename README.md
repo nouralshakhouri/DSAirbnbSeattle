@@ -1,8 +1,8 @@
 # DSAirbnbSeattle
- Data Science - Exploring Airbnb Seattle Dataset
+ Data Science - Which Factors Affect Airbnb Seattle Pricing ?
 
-# This is How to Randomly Generate Album Cover in 5 Easy Steps using Python and Jupyter Notebook
-# Random_AlbumCover_Generator
+# Which Factors Affect Airbnb Seattle Pricing ?
+# DSAirbnbSeattle
 
 ###  In this report we will study and analyze Airbnb Seattle Dataset to answer the following questions:
 1. Whom are the top 15 hosts in Seattle?
