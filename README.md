@@ -34,7 +34,9 @@ Exploring Airbnb Seattle Dataset.html
 
 ## Datasets:
 [listings.csv] Seattle Airbnb listings dataset
+
 [reviews.csv] Seattle Airbnb reviews dataset
+
 [calendar.csv] Seattle Airbnb calendar dataset
 
 ## License
