@@ -52,9 +52,14 @@ I would like to thank Udacity for the support, kaggle for providing the dataset,
 
 ## References
 https://medium.com/@nouralshakhouri/which-factors-affect-airbnb-seattle-pricing-70772b36d609
+
 http://udacity.com
+
 http://gnu.org
+
 https://en.wikipedia.org/wiki/Seattle
+
 http://insideairbnb.com/seattle/
+
 https://www.kaggle.com/airbnb/seattle
 
